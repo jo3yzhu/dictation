@@ -1,4 +1,4 @@
-This app handled more than fifteen trillions dollars of transactions last year, that's more than **MasterCard** and an amount of money that similar to European Union's GDP.
+This app handled more than fifteen trillion dollars of transactions last year, that's more than **MasterCard** and an amount of money that similar to European Union's GDP.
 
 It also has more that nine hundred million users in China. People use Alipay on buses and taxies, to pay their utility bills, to shop in stores and online, and even to buy insurance and make investments.
 
@@ -18,7 +18,7 @@ It all started with Jack Ma, the **flamboyant** Chinese bussinessman who's known
 
 "Alibaba is like a mix of Amazon, eBay and Paypal, also with **a dash of** Google. But it handles more bussiness, its shopping sites than any other companies in the world".
 
-When Alibaba's just starting out, it created Alipay as a **escrow** serivce to hold money from buyers and release the **funds to** sellers after the goods **had been sent and** received.
+When Alibaba's just starting out, it created Alipay as an **escrow** serivce to hold money from buyers and release the **funds to** sellers after the goods **had been sent and** received.
 
 This built trust between **merchants** and buyers, and helped to pave the way for eCommerce industry **boom** in China.
 
